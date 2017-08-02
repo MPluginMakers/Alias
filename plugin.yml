@@ -3,7 +3,7 @@ version: 2.0
 api: [3.0.0-ALPHA7]
 author: "ZacHack"
 description: "Allows users to view all the usernames one user has used"
-main: Alias\MainClass
+main: ZacHack\Alias\MainClass
 load: STARTUP
 commands:
   alias:
