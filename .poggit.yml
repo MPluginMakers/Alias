@@ -2,4 +2,5 @@
 projects:
   Alias:
     path: ""
+    icon: icon.jpg
 ...
